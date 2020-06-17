@@ -1,4 +1,3 @@
-# rev-IP
 # Mass Reverse IP Lookup
 # pip2 install requests
 # python2 rev.py your_file.txt
